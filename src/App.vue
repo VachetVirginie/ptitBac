@@ -1,7 +1,7 @@
 <template>
 
   <div class="max-w-sm rounded overflow-hidden shadow-lg flex content-center flex flex-col">
-    <div class="ml-24 mb-4">
+    <div class="mr-24 mb-4">
       <img class="animate-spin w-20 grid grid-cols-1" src="./assets/logo.svg">
     </div>
     <p>Nouvelle lettre: <br>{{ message }} </p>
